@@ -1,14 +1,16 @@
 # TML Decompiled <br>
-[![Generate-site](https://github.com/Animatak/TMLDecompiled/actions/workflows/generate-site.yml/badge.svg?branch=master)](https://github.com/Animatak/TMLDecompiled/actions/workflows/generate-site.yml)
-[![pages-build-deployment](https://github.com/Animatak/TMLDecompiled/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Animatak/TMLDecompiled/actions/workflows/pages/pages-build-deployment) <br>
+
 ![TML - v1.4.4.9](https://img.shields.io/badge/TML-1.4.4.9-green)
 ![ILSpy - v8.2](https://img.shields.io/badge/ILSpy-8.2-cyan)
 ![Doxygen - v1.10.0](https://img.shields.io/badge/Doxygen-1.10.0-blueviolet) <br>
-This is the repository for ***TML*** (short for ***TModLoader***) source code, decompiled using ***ILSpy***. <br>
-Source code browser available at:
-[![click-me - animatak.github.io/TMLDecompiled](https://img.shields.io/badge/click--me-animatak.github.io%2FTMLDecompiled-informational?logo=dependabot&logoColor=informational)](https://animatak.github.io/TMLDecompiled) <br>
-Last updated: `26 December 2023` <br><br>
-Other links: <br>
-[![click-me - infinitynichto.github.io/TerrariaDecompiled](https://img.shields.io/badge/click--me-animatak.github.io%2FTerrariaDecompiled-informational?logo=dependabot&logoColor=informational)](https://animatak.github.io/TerrariaDecompiled) <br>
-• Asset browser upcoming!
-# test
+
+Source code browser available at: <br>
+
+[![click-me - animatak.github.io/TMLDecompiled](https://img.shields.io/badge/click--me-animatak.github.io%2FTMLDecompiled-informational?logo=dependabot&logoColor=informational)](https://animatak.github.io/TMLDecompiled)
+
+<br>
+
+## 💙 Thanks
+
+Special thanks to our dear friend **"S"**
+All credits for "S"
